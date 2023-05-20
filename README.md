@@ -1,0 +1,3 @@
+documentação completa do curso -> https://seaborn.pydata.org/tutorial/introduction.html
+
+Curso em andamento...
